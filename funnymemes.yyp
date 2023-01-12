@@ -7,6 +7,7 @@
     {"id":{"name":"obj_player_balance","path":"objects/obj_player_balance/obj_player_balance.yy",},"order":2,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"spr_npc","path":"sprites/spr_npc/spr_npc.yy",},"order":1,},
+    {"id":{"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},"order":2,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
