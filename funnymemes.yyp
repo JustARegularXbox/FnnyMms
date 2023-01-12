@@ -28,8 +28,13 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"room_main","path":"rooms/room_main/room_main.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+<<<<<<< Updated upstream
+=======
+    {"roomId":{"name":"room_minigame","path":"rooms/room_minigame/room_minigame.yy",},},
+>>>>>>> Stashed changes
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
