@@ -5,5 +5,5 @@ room_goto(room_minigame);
 
 if(mouse_check_button_pressed(mb_left))
 {
-exit_game();
+exit_room_main();
 }
