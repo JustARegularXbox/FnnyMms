@@ -31,7 +31,10 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
+<<<<<<< Updated upstream
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+=======
+>>>>>>> Stashed changes
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
   ],
