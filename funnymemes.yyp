@@ -25,15 +25,23 @@
     {"id":{"name":"room_minigame","path":"rooms/room_minigame/room_minigame.yy",},"order":3,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_text_cloud","path":"sprites/spr_text_cloud/spr_text_cloud.yy",},"order":6,},
+<<<<<<< Updated upstream
     {"id":{"name":"obj_music_background","path":"objects/obj_music_background/obj_music_background.yy",},"order":9,},
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"order":8,},
+=======
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"order":0,},
+>>>>>>> Stashed changes
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
 =======
+>>>>>>> Stashed changes
+=======
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
 >>>>>>> Stashed changes
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
