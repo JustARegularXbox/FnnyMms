@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"bruh","path":"sprites/bruh/bruh.yy",},"order":2,},
     {"id":{"name":"spr_play_button","path":"sprites/spr_play_button/spr_play_button.yy",},"order":4,},
+    {"id":{"name":"spr_npc_idle_up","path":"sprites/spr_npc_idle_up/spr_npc_idle_up.yy",},"order":2,},
     {"id":{"name":"snd_music_background_opening","path":"sounds/snd_music_background_opening/snd_music_background_opening.yy",},"order":1,},
     {"id":{"name":"spr_main_char_idle_left","path":"sprites/spr_main_char_idle_left/spr_main_char_idle_left.yy",},"order":5,},
     {"id":{"name":"spr_main_character_boy_idle","path":"sprites/spr_main_character_boy_idle/spr_main_character_boy_idle.yy",},"order":0,},
