@@ -60,8 +60,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"room_main","path":"rooms/room_main/room_main.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"room_minigame","path":"rooms/room_minigame/room_minigame.yy",},},
     {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
