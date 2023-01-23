@@ -1,13 +1,16 @@
 /// player movement
 
 //movement
-vx = (moveRight*walkSpeed);
+vx = ((moveRight - moveLeft)*walkSpeed);
+vy = ((moveDown - moveUp)*walkSpeed);
+
 
 //idle
-if (vx == 0) {
+if (vx == 0 && vy==0) {
 	//do nothing
 }
 //moving
-if (vx!= 0) {
-	x += vx
+if (vx!= 0 || vy!=0) {
+	x += vx;
+	y += vy;
 }
