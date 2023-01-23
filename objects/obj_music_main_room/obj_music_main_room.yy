@@ -27,7 +27,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "funnymemes",
-    "path": "funnymemes.yyp",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }
