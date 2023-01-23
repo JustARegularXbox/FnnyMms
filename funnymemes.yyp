@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "funnymemes",
   "resources": [
+    {"id":{"name":"spr_npc_walking_left","path":"sprites/spr_npc_walking_left/spr_npc_walking_left.yy",},"order":5,},
     {"id":{"name":"bruh","path":"sprites/bruh/bruh.yy",},"order":2,},
     {"id":{"name":"spr_play_button","path":"sprites/spr_play_button/spr_play_button.yy",},"order":4,},
     {"id":{"name":"spr_npc_idle_up","path":"sprites/spr_npc_idle_up/spr_npc_idle_up.yy",},"order":2,},
