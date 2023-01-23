@@ -19,6 +19,7 @@
     {"id":{"name":"spr_maksekekke","path":"sprites/spr_maksekekke/spr_maksekekke.yy",},"order":7,},
     {"id":{"name":"obj_exitGame","path":"objects/obj_exitGame/obj_exitGame.yy",},"order":4,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
+    {"id":{"name":"spr_starting_screen","path":"sprites/spr_starting_screen/spr_starting_screen.yy",},"order":9,},
     {"id":{"name":"spr_mind_cloud","path":"sprites/spr_mind_cloud/spr_mind_cloud.yy",},"order":5,},
     {"id":{"name":"spr_logo","path":"sprites/spr_logo/spr_logo.yy",},"order":8,},
     {"id":{"name":"spr_npc","path":"sprites/spr_npc/spr_npc.yy",},"order":1,},
