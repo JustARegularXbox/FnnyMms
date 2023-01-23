@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_main_character",
+  "name": "obj_npc_main",
   "spriteId": {
-    "name": "spr_main_character_boy_idle",
-    "path": "sprites/spr_main_character_boy_idle/spr_main_character_boy_idle.yy",
+    "name": "spr_npc_idle_down",
+    "path": "sprites/spr_npc_idle_down/spr_npc_idle_down.yy",
   },
   "solid": false,
   "visible": true,
@@ -26,9 +26,6 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":39,"eventType":5,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":39,"eventType":10,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],

@@ -1,0 +1,5 @@
+/// @description 
+
+moveRight = 0;
+
+
