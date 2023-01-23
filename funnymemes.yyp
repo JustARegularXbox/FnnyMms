@@ -28,6 +28,7 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"spr_starting_screen","path":"sprites/spr_starting_screen/spr_starting_screen.yy",},"order":9,},
     {"id":{"name":"spr_mind_cloud","path":"sprites/spr_mind_cloud/spr_mind_cloud.yy",},"order":5,},
+    {"id":{"name":"spr_npc_idle_down","path":"sprites/spr_npc_idle_down/spr_npc_idle_down.yy",},"order":0,},
     {"id":{"name":"spr_main_character_boy_walking_down","path":"sprites/spr_main_character_boy_walking_down/spr_main_character_boy_walking_down.yy",},"order":1,},
     {"id":{"name":"spr_main_char_walking_right","path":"sprites/spr_main_char_walking_right/spr_main_char_walking_right.yy",},"order":8,},
     {"id":{"name":"obj_main_character","path":"objects/obj_main_character/obj_main_character.yy",},"order":10,},
