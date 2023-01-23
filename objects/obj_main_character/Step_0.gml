@@ -1,5 +1,11 @@
 /// player movement
 
+//keys
+moveRight = keyboard_check(vk_right);
+moveLeft = keyboard_check(vk_left);
+moveDown = keyboard_check(vk_down);
+moveUp = keyboard_check(vk_up);
+
 //movement
 vx = ((moveRight - moveLeft)*walkSpeed);
 vy = ((moveDown - moveUp)*walkSpeed);

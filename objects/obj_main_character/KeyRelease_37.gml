@@ -1,5 +1,0 @@
-/// @description 
-
-moveLeft = 0;
-
-
