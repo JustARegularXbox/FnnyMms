@@ -6,6 +6,7 @@
     {"id":{"name":"bruh","path":"sprites/bruh/bruh.yy",},"order":2,},
     {"id":{"name":"spr_play_button","path":"sprites/spr_play_button/spr_play_button.yy",},"order":4,},
     {"id":{"name":"snd_music_background_opening","path":"sounds/snd_music_background_opening/snd_music_background_opening.yy",},"order":1,},
+    {"id":{"name":"spr_main_character_boy_idle","path":"sprites/spr_main_character_boy_idle/spr_main_character_boy_idle.yy",},"order":10,},
     {"id":{"name":"obj_text_cloud","path":"objects/obj_text_cloud/obj_text_cloud.yy",},"order":6,},
     {"id":{"name":"snd_bike_bell","path":"sounds/snd_bike_bell/snd_bike_bell.yy",},"order":0,},
     {"id":{"name":"obj_startGame","path":"objects/obj_startGame/obj_startGame.yy",},"order":3,},
