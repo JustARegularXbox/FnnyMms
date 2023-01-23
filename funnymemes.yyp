@@ -22,6 +22,7 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"spr_starting_screen","path":"sprites/spr_starting_screen/spr_starting_screen.yy",},"order":9,},
     {"id":{"name":"spr_mind_cloud","path":"sprites/spr_mind_cloud/spr_mind_cloud.yy",},"order":5,},
+    {"id":{"name":"spr_main_character_boy_walking_down","path":"sprites/spr_main_character_boy_walking_down/spr_main_character_boy_walking_down.yy",},"order":11,},
     {"id":{"name":"spr_logo","path":"sprites/spr_logo/spr_logo.yy",},"order":8,},
     {"id":{"name":"spr_npc","path":"sprites/spr_npc/spr_npc.yy",},"order":1,},
     {"id":{"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},"order":2,},
