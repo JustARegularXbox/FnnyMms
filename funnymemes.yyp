@@ -9,6 +9,7 @@
     {"id":{"name":"spr_main_char_idle_left","path":"sprites/spr_main_char_idle_left/spr_main_char_idle_left.yy",},"order":5,},
     {"id":{"name":"spr_main_character_boy_idle","path":"sprites/spr_main_character_boy_idle/spr_main_character_boy_idle.yy",},"order":0,},
     {"id":{"name":"obj_text_cloud","path":"objects/obj_text_cloud/obj_text_cloud.yy",},"order":6,},
+    {"id":{"name":"spr_main_char_walking_left","path":"sprites/spr_main_char_walking_left/spr_main_char_walking_left.yy",},"order":6,},
     {"id":{"name":"snd_bike_bell","path":"sounds/snd_bike_bell/snd_bike_bell.yy",},"order":0,},
     {"id":{"name":"obj_startGame","path":"objects/obj_startGame/obj_startGame.yy",},"order":3,},
     {"id":{"name":"Room5","path":"rooms/Room5/Room5.yy",},"order":5,},
