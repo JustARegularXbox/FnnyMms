@@ -13,7 +13,13 @@ vy = ((moveDown - moveUp)*walkSpeed);
 
 //idle
 if (vx == 0 && vy==0) {
-	//do nothing
+	//switch idle sprites
+	switch dir {
+	case 0: sprite_index = spr_main_char_idle_right; break;
+	case 1: sprite_index = spr_main_char_idle_up; break;
+	case 2: sprite_index = spr_main_char_idle_left; break;
+	case 3: sprite_index = spr_main_character_boy_idle; break;
+	}
 }
 //moving
 if (vx!= 0 || vy!=0) {
