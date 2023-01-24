@@ -27,6 +27,7 @@
     {"id":{"name":"spr_maksekekke","path":"sprites/spr_maksekekke/spr_maksekekke.yy",},"order":8,},
     {"id":{"name":"obj_exitGame","path":"objects/obj_exitGame/obj_exitGame.yy",},"order":4,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
+    {"id":{"name":"rm_mainTitle","path":"rooms/rm_mainTitle/rm_mainTitle.yy",},"order":5,},
     {"id":{"name":"spr_starting_screen","path":"sprites/spr_starting_screen/spr_starting_screen.yy",},"order":10,},
     {"id":{"name":"spr_room","path":"sprites/spr_room/spr_room.yy",},"order":13,},
     {"id":{"name":"spr_mind_cloud","path":"sprites/spr_mind_cloud/spr_mind_cloud.yy",},"order":6,},
@@ -65,6 +66,7 @@
     {"roomId":{"name":"room_minigame","path":"rooms/room_minigame/room_minigame.yy",},},
     {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"rm_mainTitle","path":"rooms/rm_mainTitle/rm_mainTitle.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
