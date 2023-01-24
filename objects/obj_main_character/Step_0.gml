@@ -49,7 +49,4 @@ if (vy > 0) {
 
 x += vx;
 y += vy;
-//move in only four directions
 
-
-    

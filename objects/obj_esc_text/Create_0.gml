@@ -1,7 +1,11 @@
 /// @description Insert description here
-// You can write your code in this editor
 
-var text_box_visible =  false;
+//text
+
+
+text = "Are you sure you want to leave???"
+
+
 
 
 

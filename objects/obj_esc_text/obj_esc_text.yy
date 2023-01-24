@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_esc_text",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_texbox",
+    "path": "sprites/spr_texbox/spr_texbox.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
