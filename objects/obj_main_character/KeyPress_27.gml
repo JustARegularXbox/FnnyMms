@@ -8,7 +8,7 @@ if(keyboard_check(vk_escape))
 	}
 
 } 
-	if(keyboard_check(vk_escape))
+	else (keyboard_check(vk_escape))
 	{
 		if (text_box_visible == 1)
 		{
@@ -16,8 +16,8 @@ if(keyboard_check(vk_escape))
 		}
 	}
 
-if (text_box_visible == 1)
+if (text_box_visible == 0)
 {
-	instance_create_layer(room_width/2 - sprite_width, room_height/2 - sprite_height, "Instances_1", obj_esc_text);
+	instance_create_layer(room_width/3 - sprite_width, room_height/3 - sprite_height, "Instances_1", obj_esc_text);
 }
     
