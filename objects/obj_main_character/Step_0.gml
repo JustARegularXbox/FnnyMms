@@ -6,6 +6,7 @@ moveLeft = keyboard_check(vk_left);
 moveDown = keyboard_check(vk_down);
 moveUp = keyboard_check(vk_up);
 
+
 //movement
 vx = ((moveRight - moveLeft)*walkSpeed);
 vy = ((moveDown - moveUp)*walkSpeed);
@@ -38,11 +39,17 @@ if (vx < 0) {
 }
 if (vy < 0) {
 	sprite_index = spr_main_char_walking_up;
-	dir = 1;
+	dir = 1 ;
 }
 if (vy > 0) {
 	sprite_index = spr_main_character_boy_walking_down;
 	dir = 3;
-}
+}  
 
+
+x += vx;
+y += vy;
 //move in only four directions
+
+
+    
