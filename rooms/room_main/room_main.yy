@@ -17,8 +17,6 @@
   ],
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_1","instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_42306423","properties":[],"isDnd":false,"objectId":{"name":"obj_startGame","path":"objects/obj_startGame/obj_startGame.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.9375,"scaleY":0.875,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":320.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_21599DE0","properties":[],"isDnd":false,"objectId":{"name":"obj_exitGame","path":"objects/obj_exitGame/obj_exitGame.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.125,"scaleY":0.125,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":32.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_113215C3","properties":[],"isDnd":false,"objectId":{"name":"obj_music_background","path":"objects/obj_music_background/obj_music_background.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":7.609375,"scaleY":7.609375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1213.5,"y":625.75,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4E8C4B2B","properties":[],"isDnd":false,"objectId":{"name":"obj_esc_text","path":"objects/obj_esc_text/obj_esc_text.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":8.5,"scaleY":8.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":576.0,"y":480.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
@@ -29,8 +27,6 @@
   "creationCodeFile": "${project_dir}/rooms/room_main/RoomCreationCode.gml",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_42306423","path":"rooms/room_main/room_main.yy",},
-    {"name":"inst_21599DE0","path":"rooms/room_main/room_main.yy",},
     {"name":"inst_113215C3","path":"rooms/room_main/room_main.yy",},
     {"name":"inst_4E8C4B2B","path":"rooms/room_main/room_main.yy",},
   ],
