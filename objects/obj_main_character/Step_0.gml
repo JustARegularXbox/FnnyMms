@@ -1,4 +1,4 @@
-/// player movement
+ /// player movement
 
 //keys
 moveRight = keyboard_check(vk_right);
