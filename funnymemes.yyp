@@ -39,6 +39,7 @@
     {"id":{"name":"spr_main_char_walking_right","path":"sprites/spr_main_char_walking_right/spr_main_char_walking_right.yy",},"order":8,},
     {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},"order":15,},
     {"id":{"name":"obj_main_character","path":"objects/obj_main_character/obj_main_character.yy",},"order":9,},
+    {"id":{"name":"spr_bike_title_screen","path":"sprites/spr_bike_title_screen/spr_bike_title_screen.yy",},"order":17,},
     {"id":{"name":"spr_logo","path":"sprites/spr_logo/spr_logo.yy",},"order":9,},
     {"id":{"name":"spr_texbox","path":"sprites/spr_texbox/spr_texbox.yy",},"order":14,},
     {"id":{"name":"spr_npc","path":"sprites/spr_npc/spr_npc.yy",},"order":1,},
