@@ -45,6 +45,7 @@
     {"id":{"name":"spr_text_cloud","path":"sprites/spr_text_cloud/spr_text_cloud.yy",},"order":7,},
     {"id":{"name":"obj_music_background","path":"objects/obj_music_background/obj_music_background.yy",},"order":8,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"rm_titleScreen","path":"rooms/rm_titleScreen/rm_titleScreen.yy",},"order":5,},
     {"id":{"name":"spr_logo_2","path":"sprites/spr_logo_2/spr_logo_2.yy",},"order":14,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
@@ -62,6 +63,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_titleScreen","path":"rooms/rm_titleScreen/rm_titleScreen.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"room_minigame","path":"rooms/room_minigame/room_minigame.yy",},},
     {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
