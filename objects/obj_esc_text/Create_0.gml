@@ -7,6 +7,3 @@ text_box_visible = false;
 text = "Are you sure you want to leave???"
 
 
-
-
-
