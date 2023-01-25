@@ -1,18 +1,21 @@
-if (x <= 32)
+if (y >= 851 + sprite_height/2)
 {
-	x = 32;
+	if (x <= (obj_highway_street.sprite_width / m_very_specific_ratio))
+	{
+		x = obj_highway_street.sprite_width / m_very_specific_ratio;
+	}
 }
-if (y <= 32)
+if (y <= 320)
 {
-	y = 32;
+	y = 320;
 }
-if (x >= window_get_width() - 32)
+if (x >= window_get_width() - (obj_highway_street.sprite_width / m_very_specific_ratio))
 {
-	x = window_get_width() - 32;
+	x = window_get_width() - (obj_highway_street.sprite_width / m_very_specific_ratio);
 }
-if (y >= window_get_height() - 32)
+if (y >= room_height - 32)
 {
-	y = window_get_height() - 32;
+	y = room_height - 32;
 }
 
 //Add to image angle. If you are holding W then increase speed by amount of <thrust> and rotate direction of movement toward direction you are facing by amount of <turn_lag> or 
@@ -39,9 +42,9 @@ if (m_speed > 0)
 	m_rotate = keyboard_check(ord("A")) - keyboard_check(ord("D"));
 	// Lerp between current rotation value and direction by 1% (increase to make acceleration / deceleration faster).
 	m_rotation = lerp(m_rotation, m_rotate, 1.5);
-	image_angle += 5 * m_rotation  * (delta_time / 100000);
+	image_angle += 10 * m_rotation  * (delta_time / 100000);
 	var ang_dif = angle_difference(image_angle, direction);
-	direction += min(abs(ang_dif), m_turn_lag) * sign(ang_dif) * 0.2;
+	direction += min(abs(ang_dif), m_turn_lag) * sign(ang_dif) * 0.5;
 }
 //don't allow spd to be greater than max_spd
 if (m_speed > m_max_spd) 
@@ -49,7 +52,9 @@ if (m_speed > m_max_spd)
 	m_speed = m_max_spd;
 }
 
-//move the x/y to the desired resulting x/y
-x = x + lengthdir_x(m_speed,direction);
-y = y + lengthdir_y(m_speed,direction);
+vx = lengthdir_x(m_speed,direction);
+vy = lengthdir_y(m_speed,direction);
 
+//move the x/y to the desired resulting x/y
+x = x + vx;
+y = y + vy;

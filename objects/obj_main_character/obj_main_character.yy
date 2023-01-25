@@ -6,7 +6,7 @@
     "name": "spr_main_character_boy_idle",
     "path": "sprites/spr_main_character_boy_idle/spr_main_character_boy_idle.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
@@ -23,7 +23,12 @@
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
-  "physicsShapePoints": [],
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":1024.0,"y":0.0,},
+    {"x":1024.0,"y":1024.0,},
+    {"x":0.0,"y":1024.0,},
+  ],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
