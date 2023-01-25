@@ -1,10 +1,10 @@
 /// player movement
 
 //keys
-moveRight = keyboard_check(vk_right);
-moveLeft = keyboard_check(vk_left);
-moveDown = keyboard_check(vk_down);
-moveUp = keyboard_check(vk_up);
+moveRight = keyboard_check(ord("D"));
+moveLeft = keyboard_check(ord("A"));
+moveDown = keyboard_check(ord("S"));
+moveUp = keyboard_check(ord("W"));
 
 
 //movement
