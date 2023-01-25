@@ -26,7 +26,7 @@
     {"id":{"name":"obj_highway_cars","path":"objects/obj_highway_cars/obj_highway_cars.yy",},"order":13,},
     {"id":{"name":"obj_player_balance","path":"objects/obj_player_balance/obj_player_balance.yy",},"order":2,},
     {"id":{"name":"spr_text_cloud","path":"sprites/spr_text_cloud/spr_text_cloud.yy",},"order":7,},
-    {"id":{"name":"Sprite49","path":"sprites/Sprite49/Sprite49.yy",},"order":3,},
+    {"id":{"name":"spr_main_char_tilted_to_the_right","path":"sprites/spr_main_char_tilted_to_the_right/spr_main_char_tilted_to_the_right.yy",},"order":3,},
     {"id":{"name":"spr_homeless_person","path":"sprites/spr_homeless_person/spr_homeless_person.yy",},"order":19,},
     {"id":{"name":"spr_exit_button","path":"sprites/spr_exit_button/spr_exit_button.yy",},"order":4,},
     {"id":{"name":"spr_main_char_slightly_tilted_to_the_right_with_footdown","path":"sprites/spr_main_char_slightly_tilted_to_the_right_with_footdown/spr_main_char_slightly_tilted_to_the_right_with_footdown.yy",},"order":2,},
