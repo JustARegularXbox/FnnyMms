@@ -18,7 +18,7 @@
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_CB06AB7","properties":[],"isDnd":false,"objectId":{"name":"obj_maksekekke","path":"objects/obj_maksekekke/obj_maksekekke.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.088709675,"scaleY":0.088709675,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1056.0,"y":128.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_554EC21B","properties":[],"isDnd":false,"objectId":{"name":"obj_textbox_interaction","path":"objects/obj_textbox_interaction/obj_textbox_interaction.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":13.499999,"scaleY":13.499999,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":576.0,"y":288.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6DDF49B8","properties":[],"isDnd":false,"objectId":{"name":"obj_textbox","path":"objects/obj_textbox/obj_textbox.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":8.90625,"scaleY":9.25,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":558.0,"y":350.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","spriteId":null,"colour":4291203281,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
   ],
@@ -27,7 +27,7 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_CB06AB7","path":"rooms/Room5/Room5.yy",},
-    {"name":"inst_554EC21B","path":"rooms/Room5/Room5.yy",},
+    {"name":"inst_6DDF49B8","path":"rooms/Room5/Room5.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

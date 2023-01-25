@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_textbox_interaction",
-  "spriteId": null,
+  "name": "obj_textbox",
+  "spriteId": {
+    "name": "spr_text_cloud",
+    "path": "sprites/spr_text_cloud/spr_text_cloud.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
