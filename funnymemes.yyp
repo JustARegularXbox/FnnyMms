@@ -33,6 +33,7 @@
     {"id":{"name":"spr_main_char_idle_up","path":"sprites/spr_main_char_idle_up/spr_main_char_idle_up.yy",},"order":2,},
     {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},"order":3,},
     {"id":{"name":"obj_highway_cars_small","path":"objects/obj_highway_cars_small/obj_highway_cars_small.yy",},"order":14,},
+    {"id":{"name":"spr_trophy","path":"sprites/spr_trophy/spr_trophy.yy",},"order":27,},
     {"id":{"name":"obj_highway_street","path":"objects/obj_highway_street/obj_highway_street.yy",},"order":12,},
     {"id":{"name":"obj_maksekekke","path":"objects/obj_maksekekke/obj_maksekekke.yy",},"order":7,},
     {"id":{"name":"room_outside_2","path":"rooms/room_outside_2/room_outside_2.yy",},"order":6,},
@@ -83,9 +84,6 @@
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
     {"name":"macOS","path":"options/mac/options_mac.yy",},
-    {"name":"Main","path":"options/main/options_main.yy",},
-    {"name":"Windows","path":"options/windows/options_windows.yy",},
-    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
