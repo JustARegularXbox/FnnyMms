@@ -55,7 +55,7 @@ if(keyboard_check_pressed(vk_escape))
 if (text_box_visible == 1)
 {
 	instance_create_layer(0, 0, "Instances", obj_exitGame);
-	instance_create_layer(room_width/3 - sprite_width, room_height/3 - sprite_height, "Instances_1", obj_esc_text);
+	instance_create_layer(room_width/3 - sprite_width, room_height/3 - sprite_height, "Instances", obj_esc_text);
 }
    
    

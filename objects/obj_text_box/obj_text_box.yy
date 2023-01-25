@@ -1,14 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-<<<<<<< Updated upstream:objects/obj_starting_screen/obj_starting_screen.yy
-  "name": "obj_starting_screen",
-=======
   "name": "obj_text_box",
->>>>>>> Stashed changes:objects/obj_text_box/obj_text_box.yy
   "spriteId": {
-    "name": "spr_starting_screen",
-    "path": "sprites/spr_starting_screen/spr_starting_screen.yy",
+    "name": "spr_text_box",
+    "path": "sprites/spr_text_box/spr_text_box.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +24,12 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

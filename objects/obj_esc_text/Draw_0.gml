@@ -3,7 +3,7 @@
 	
 
 // drawing text in textbox
-	draw_set_font(fnt_main);
+	draw_set_font(fnt_game);
 	draw_text(x, y , text_1);
 
 
