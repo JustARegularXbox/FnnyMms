@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "npc right",
-    "path": "folders/Sprites/bike sprites/npc right.yy",
+    "name": "funnymemes",
+    "path": "funnymemes.yyp",
   },
 }
