@@ -54,6 +54,7 @@
     {"id":{"name":"spr_main_char_walking_right","path":"sprites/spr_main_char_walking_right/spr_main_char_walking_right.yy",},"order":8,},
     {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},"order":15,},
     {"id":{"name":"obj_main_character","path":"objects/obj_main_character/obj_main_character.yy",},"order":9,},
+    {"id":{"name":"spr_moving_grass","path":"sprites/spr_moving_grass/spr_moving_grass.yy",},"order":26,},
     {"id":{"name":"spr_bike_title_screen","path":"sprites/spr_bike_title_screen/spr_bike_title_screen.yy",},"order":17,},
     {"id":{"name":"spr_npc_on_bike","path":"sprites/spr_npc_on_bike/spr_npc_on_bike.yy",},"order":1,},
     {"id":{"name":"spr_logo","path":"sprites/spr_logo/spr_logo.yy",},"order":9,},
