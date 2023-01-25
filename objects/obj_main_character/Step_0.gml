@@ -39,6 +39,32 @@ if (vx!= 0 || vy!=0) {
     y += vy;
 }
 
+if(keyboard_check_pressed(vk_escape))
+{
+	if (text_box_visible == 0)
+	{
+		text_box_visible = 1;
+	} 
+	else if (text_box_visible == 1)
+	{
+		text_box_visible = 0;
+	}
+
+} 
+
+if (text_box_visible == 1)
+{
+	instance_create_layer(0, 0, "Instances", obj_exitGame);
+	instance_create_layer(room_width/3 - sprite_width, room_height/3 - sprite_height, "Instances_1", obj_esc_text);
+}
+   
+   
+if (text_box_visible == 0)
+{
+	instance_destroy(obj_esc_text);
+	instance_destroy(obj_exitGame);
+}
+
 //change of walking sprites
 if (vx > 0) {
     sprite_index = spr_main_char_walking_right;
@@ -61,3 +87,4 @@ if (vy > 0) {
 x += vx;
 y += vy;
 //move in only four directions
+

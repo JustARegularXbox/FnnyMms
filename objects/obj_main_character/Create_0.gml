@@ -11,6 +11,8 @@ moveLeft = 0;
 moveUp = 0;
 moveDown = 0;
 
+text_box_visible =  0;
+
 
 
 
