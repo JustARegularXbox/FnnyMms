@@ -10,10 +10,5 @@ moveRight = 0;
 moveLeft = 0;
 moveUp = 0;
 moveDown = 0;
-
+should_draw = 1;
 text_box_visible =  0;
-
-
-
-
-
