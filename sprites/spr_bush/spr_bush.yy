@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "funnymemes",
-    "path": "funnymemes.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }
