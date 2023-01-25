@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_npc_slightly_tilted_to_the_left_with_foot_down",
+  "name": "spr_main_char_looking_right",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -13,7 +13,7 @@
   "bbox_left": 15,
   "bbox_right": 48,
   "bbox_top": 0,
-  "bbox_bottom": 63,
+  "bbox_bottom": 62,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -28,12 +28,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"38faa2b9-e3b7-4681-a0f4-e4e28bb8c726",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0a35006a-98db-4f81-a7f6-17b18dc60c89",},
   ],
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_npc_slightly_tilted_to_the_left_with_foot_down",
+    "name": "spr_main_char_looking_right",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -45,7 +45,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"44edb1bf-8f77-4d69-b792-ba6af0d83da2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"38faa2b9-e3b7-4681-a0f4-e4e28bb8c726","path":"sprites/spr_npc_slightly_tilted_to_the_left_with_foot_down/spr_npc_slightly_tilted_to_the_left_with_foot_down.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"346f6045-b45f-406e-821a-e6b16f10a1e1","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0a35006a-98db-4f81-a7f6-17b18dc60c89","path":"sprites/spr_main_char_looking_right/spr_main_char_looking_right.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
@@ -64,11 +64,11 @@
     "eventStubScript": null,
   },
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ab6f0b23-aedd-40b4-808c-d63d0ccbe2c7","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"8c8eba15-40cd-4e9e-b952-700627ade867","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "npc left",
-    "path": "folders/Sprites/bike sprites/npc left.yy",
+    "name": "mc right",
+    "path": "folders/Sprites/bike sprites/mc right.yy",
   },
 }
