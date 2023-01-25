@@ -80,6 +80,7 @@
     {"id":{"name":"spr_main_char_on_bike","path":"sprites/spr_main_char_on_bike/spr_main_char_on_bike.yy",},"order":4,},
     {"id":{"name":"obj_music_background","path":"objects/obj_music_background/obj_music_background.yy",},"order":8,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"spr_flower1","path":"sprites/spr_flower1/spr_flower1.yy",},"order":9,},
     {"id":{"name":"spr_logo_2","path":"sprites/spr_logo_2/spr_logo_2.yy",},"order":14,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
